@@ -3,7 +3,7 @@
 function country() {
   const name = "USA"
   console.log(`Welcome to ${name}`);
-  
+
   function state() {
     const named = "Washington"
     console.log(`${named} is the greatest state in the ${name}`);
